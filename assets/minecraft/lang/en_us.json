@@ -1,0 +1,13 @@
+{
+    "trim_material.minecraft.resin": "Hardened Baked Bean Material",
+    "item.minecraft.resin_clump": "Bean",
+    "block.minecraft.resin_clump": "Bean",
+    "block.minecraft.resin_block": "Block of Beans",
+    "block.minecraft.resin_brick": "Baked Bean",
+    "item.minecraft.resin_brick": "Baked Bean",
+    "block.minecraft.resin_bricks": "Baked Beans",
+    "block.minecraft.resin_brick_slab": "Baked Bean Slab",
+    "block.minecraft.resin_brick_stairs": "Baked Bean Stairs",
+    "block.minecraft.resin_brick_wall": "Baked Bean Wall",
+    "block.minecraft.chiseled_resin_bricks": "Chiseled Baked Beans"
+}
